@@ -8,3 +8,5 @@ venv/
 *.pyc
 *.log
 lint*.txt
+
+.ipynb_checkpoints/
