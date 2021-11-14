@@ -3,6 +3,9 @@
 This changelog is inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
+## 3.2.1.a - 2021-11-14
+- added: new version of script called 'gcexport_a.py' with new argument to similar to start position, called 'end_activity_no' that allows skipping of a given number of files starting at the oldest.
+
 ## 3.2.1 - 2021-08-15
 
 - fixed: make the display name parsing work also for email addresses
